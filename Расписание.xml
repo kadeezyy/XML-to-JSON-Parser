@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <day>Среда</day>
+   <content>
+      <lecture>
+         <week>Четная неделя</week>
+         <time>11:40-13:10</time>
+         <campus>Кронверский пр., д.49, лит.А</campus>
+         <classroom>369А АУД.</classroom>
+         <subject>ДИСКРЕТНАЯ МАТЕМАТИКА(ПРАК)</subject>
+         <teacher>Поляков Владимир Иванович</teacher>
+         <form>Очно - дистанционный</form>
+      </lecture>
+      <lecture>
+         <week>Четная неделя</week>
+         <time>13:30-15:00</time>
+         <campus>Кронверский пр., д.49, лит.А</campus>
+         <classroom>369А АУД.</classroom>
+         <subject>ДИСКРЕТНАЯ МАТЕМАТИКА(ПРАК)</subject>
+         <teacher>Поляков Владимир Иванович</teacher>
+         <form>Очно - дистанционный</form>
+      </lecture>
+      <lecture>
+         <week>Четная неделя</week>
+         <time>15:20-16:50</time>
+         <campus>Кронверский пр., д.49, лит.А</campus>
+         <classroom>305 АУД.</classroom>
+         <subject>ИНФОРМАТИКА(ЛАБ)</subject>
+         <teacher>Ильина Аглая Геннадьевна</teacher>
+         <form>Очно - дистанционный</form>
+      </lecture>
+      <lecture>
+         <week>Четная неделя</week>
+         <time>17:00-18:30</time>
+         <campus>Кронверский пр., д.49, лит.А</campus>
+         <classroom>305 АУД.</classroom>
+         <subject>ИНФОРМАТИКА(ЛАБ)</subject>
+         <teacher>Ильина Аглая Геннадьевна</teacher>
+         <form>Очно - дистанционный</form>
+      </lecture>
+   </content>
+</root>
